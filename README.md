@@ -7,8 +7,7 @@
 
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Luccas84&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas84&layout=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas84&layout=compact)
 
 ### Tecnologias que ultilizo!
 
