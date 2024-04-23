@@ -27,4 +27,4 @@ stats](https://github-readme-stats.vercel.app/api?username=Luccas84&show_icons=t
   />
 </div>
 <br />
-Um estudante apaixonado por tecnologia. 👨‍💻
+Apaixonado por tecnologia. 👨‍💻
