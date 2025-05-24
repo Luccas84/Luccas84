@@ -1,11 +1,11 @@
 # Olá! Eu sou o Luccas Pereira. 🖐️
 
-### 📬 Contatos
+## 🌐 Onde me encontrar
 
-- [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://acesse.dev/portfolio-luccaspereira)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sluccas-pereira-40022b229/)  
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccaspereira84@gmail.com)  
-- [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511941515031)
+🔗 **Portfólio:** [acesse.dev/portfolio-luccaspereira](https://acesse.dev/portfolio-luccaspereira)  
+💼 **LinkedIn:** [linkedin.com/in/sluccas-pereira-40022b229](https://www.linkedin.com/in/sluccas-pereira-40022b229/)  
+📧 **E-mail:** [luccaspereira84@gmail.com](mailto:luccaspereira84@gmail.com)  
+📱 **WhatsApp:** [Clique para conversar](https://wa.me/5511941515031?text=Olá%2C%20Luccas%21%20Vim%20pelo%20GitHub)
 
 ---
 
