@@ -3,7 +3,7 @@
 ## 🌐 Onde me encontrar
 
 🔗 **Portfólio:** [acesse.dev/portfolio-luccaspereira](https://acesse.dev/portfolio-luccaspereira)  
-💼 **LinkedIn:** [linkedin.com/in/sluccas-pereira-40022b229](https://www.linkedin.com/in/sluccas-pereira-40022b229/)  
+💼 **LinkedIn:** [linkedin.com/in/sluccas-pereira-40022b229](https://www.linkedin.com/in/luccas-pereira-40022b229/)  
 📧 **E-mail:** [luccaspereira84@gmail.com](mailto:luccaspereira84@gmail.com)  
 📱 **WhatsApp:** [Clique para conversar](https://wa.me/5511941515031?text=Olá%2C%20Luccas%21%20Vim%20pelo%20GitHub)
 
