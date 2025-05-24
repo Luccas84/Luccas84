@@ -9,8 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento. 👨‍💻  
-Tenho experiência com Front-end, buscando sempre aprender e entregar soluções eficientes e modernas.
+Sou Luccas Pereira, estudante de Análise e Desenvolvimento de Sistemas. Atuo com front-end (HTML, CSS, JavaScript) e iniciante em back-end. Tenho bagagem em design, marketing e e-commerce, o que agrega visão criativa aos meus projetos. Estou sempre aprendendo e buscando criar soluções que façam a diferença.
 
 ---
 
