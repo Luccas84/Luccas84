@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Luccas Pereira, estudante de Análise e Desenvolvimento de Sistemas. Atuo com front-end (HTML, CSS, JavaScript) e iniciante em back-end. Tenho bagagem em design, marketing e e-commerce, o que agrega visão criativa aos meus projetos. Estou sempre aprendendo e buscando criar soluções que façam a diferença.
+Sou Luccas Pereira, estudante de Análise e Desenvolvimento de Sistemas. Atuo com front-end e back-end. Tenho bagagem em design, marketing e e-commerce, o que agrega visão criativa aos meus projetos. Estou sempre aprendendo e buscando criar soluções que façam a diferença.
 
 ---
 
